@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smitthakore
-- 👀 I’m interested in SDE, Data engineering, Data Science 
+- 👀 I’m interested in SDE and building Data engineering & Data Science products 
 - 🌱 I’m currently learning NEXTJS, Zero knowledgeproofs, Terraform
 - 💞️ I’m looking to collaborate on Open source projects
 - ⚡ Fun fact: I read system design blogs way too much than a normal person should xD.
